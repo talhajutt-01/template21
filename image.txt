@@ -1,0 +1,17 @@
+{
+     "images": {
+        "img1": "images/logo.png",
+        "img2": "images/logo.png",
+        "img3": "images/c1.jpg",
+        "img4": "images/c2.jpg",
+        "img5": "images/c1.jpg",
+        "img6": "images/c2.jpg",
+        "img7": "images/b1.jpg",
+        "img8": "images/b2.jpg",
+        "img9": "images/client1.png",
+        "img10": "images/client2.png",
+        "img11": "images/client1.png",
+        "img12": "images/client2.png",
+        "img13": "images/footer-img.jpg"
+    }
+}

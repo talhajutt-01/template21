@@ -1,0 +1,127 @@
+{  
+  //title
+      "title": {
+        "title": "Updated Boxer"
+    },
+    //header all text
+     "header": {
+        "h0": "+01 1234567890",
+        "h1": "demo@gmail.com",
+        "h2": "Den mark Loram ipusum"
+    },
+//nev bar
+  "nav": {
+        "nav0": "Home",
+        "nav1": "About",
+        "nav2": "Classes",
+        "nav3": "Blog"
+    },
+
+//another section all text and s6,8,s10,s11,s12 are button or anchor tag
+  "slide": {
+    "s0": "Bo ",
+    "s1": "xer",
+    "s2": "01",
+    "s3": "02",
+    "s4": "03",
+    "s5": "Boxing Center",
+    "s6": "Contact Us",
+    "s7": "Boxing Center",
+    "s8": "Contact Us",
+    "s9": "Boxing Center",
+    "s10": "Contact Us",
+    "s11": "Previous",
+    "s12": "Next"
+  },
+// another section all text a2 is button
+    "about": {
+    "a0": "About Class",
+    "a1": "iusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris iusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquipnisi ut aliquipiusmod tempor incididunt ut labore et",
+    "a2": "Read More"
+  },
+// all text and c3,c5,c7,c9 are button
+  "class": {
+    "c0": "Our Classes Videos",
+    "c1": "iusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis n ostrud exercitation ullamco laboris iusmod tempor incididunt ut labore et dolore",
+    "c2": "Boxing",
+    "c3": "See More",
+    "c4": "Boxing",
+    "c5": "See More",
+    "c6": "Boxing",
+    "c7": "See More",
+    "c8": "Boxing",
+    "c9": "See More"
+  },
+// anothe section all text and b5,b9 are button
+"blog": {
+    "b0": "Latest Blog",
+    "b1": "iusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis n",
+    "b2": "17 \n Feb",
+    "b3": "Boxer Joniya Daro",
+    "b4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
+    "b5": "Read More",
+    "b6": "17 \n Jun",
+    "b7": "Boxer Joniya Daro",
+    "b8": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
+    "b9": "Read More"
+  },
+// another section all are text
+   "client": {
+    "cl0": "What Says Our students",
+    "cl1": "iusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis n",
+    "cl2": "Jone Moe",
+    "cl3": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum",
+    "cl4": "Lio Uji",
+    "cl5": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum",
+    "cl6": "Jone Moe",
+    "cl7": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum",
+    "cl8": "Lio Uji",
+    "cl9": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum"
+  },
+// another sectio
+    "footer": {
+        "f0": "2020 All Rights Reserved. Design by",
+        "f1": "Free Html Templates<"
+    },
+// change colors of different sections
+     "color": {
+        "header": ".",
+        "nav": ".",
+        "slide": ".",
+        "about": ".",
+        "class": ".",
+        "blog": ".",
+        "client": ".",
+        "info": ".",
+        "contact": ".",
+        "footer": "."
+    }
+
+}
+
+{
+     "images": {
+      //logos at hedaer
+        "img1": "images/logo.png",
+        "img2": "images/logo.png",
+
+        //images of calss section
+        "img3": "images/c1.jpg",
+        "img4": "images/c2.jpg",
+        "img5": "images/c1.jpg",
+        "img6": "images/c2.jpg",
+
+        // images of blog sections
+        "img7": "images/b1.jpg",
+        "img8": "images/b2.jpg",
+      
+      // images of client section
+        "img9": "images/client1.png",
+        "img10": "images/client2.png",
+        "img11": "images/client1.png",
+        "img12": "images/client2.png",
+
+        // images of footer section
+        "img13": "images/footer-img.jpg"
+    }
+}
